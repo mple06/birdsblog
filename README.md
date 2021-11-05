@@ -57,8 +57,8 @@ Testing was done by the creators.
 Credits to everyone on the team. 
 
 Juan Jose Ramirez: https://github.com/JuanjoRamirez262 </br>
-Chris Psyden: https://github.com/cpysden-coder
-Chris Ochoto-Feight: https://github.com/Cofeight
+Chris Psyden: https://github.com/cpysden-coder </br>
+Chris Ochoto-Feight: https://github.com/Cofeight </br>
 Minhvan Le: https://github.com/mple06
 
 ---
