@@ -31,12 +31,22 @@ To install this application, follow the steps below.
 
 ---
 
-Link:
-
-
 ## Usage
 
-SCREENSHOTS
+https://abirdseyeview.herokuapp.com/
+
+Homepage:
+![image](https://user-images.githubusercontent.com/90426657/140579634-2bf913b7-66fb-4f93-90b1-6e8c0cffe92c.png)
+
+Profile page:
+![image](https://user-images.githubusercontent.com/90426657/140579688-435eef4d-0375-446a-af95-ef7ae0daab87.png)
+
+Feed page:
+![image](https://user-images.githubusercontent.com/90426657/140579596-225c16bf-06f8-4667-897b-6185dda9c96a.png)
+
+Login/Signup page:
+![image](https://user-images.githubusercontent.com/90426657/140579796-da14352e-f3d1-4c79-a755-c811935ad09b.png)
+
 
 ---
 
